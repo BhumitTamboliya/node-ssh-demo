@@ -1,0 +1,14 @@
+1) you are required to demonstrate secure github intigration using ssh. -MM-15.
+perform the following tasks.
+
+    generate an ssh key pair on your system.
+    add the ssh public key to you guthub account (username:yourgitusername).
+    verify the ssh connection with github.
+    create a new repository names node-ssh-demo on githubinitialize a local project and connect it to the github repository using ssh.
+    create a file app.js with a simple console message.
+    add commit, and push the code to github.
+    make a second commit bu updating the file and push again.
+
+
+
+2) 
